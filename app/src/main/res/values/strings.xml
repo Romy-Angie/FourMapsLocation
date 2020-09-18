@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FourMapsLocation</string>
+    <string name="titulo">Locaciones en Perú</string>
+    <string name="ir_ubicacion">Ir</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_location_1">Cuzco</string>
+    <string name="title_location_2">Arequipa</string>
+    <string name="title_location_3">Ancash</string>
+    <string name="title_location_4">Ica</string>
+</resources>
